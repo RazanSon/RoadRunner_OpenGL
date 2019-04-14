@@ -1,4 +1,4 @@
-# Road Runner 2D With OpenGL
+# 2D Road Runner 
 I choose to make a 2D Road Runner for the Computer Graphics course  homework as a pixels style with only using rectangular shape and a texture for the background picture.
 
 
